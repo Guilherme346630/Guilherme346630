@@ -1,12 +1,12 @@
 ## Bem vindo ao perfil do aluno Guilherme346630
 
 -**Guilherme Alves dos Santos**
--Eu leciono no Colégio Neide Bertasso Beraldo_
-- Tenho 15 anoS
-- Estudo no 1 ano A do Ensino Médio
-- Estou estudando na [Alura](https:www.alura.com.br).
-- Estou me desenvolvendo na linguagem JavaScript
-- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- 📘 Eu leciono no Colégio Neide Bertasso Beraldo_
+- 🥇 Tenho 15 anoS
+- 📖 Estudo no 1 ano A do Ensino Médio
+- 📑 Estou estudando na [Alura](https:www.alura.com.br).
+- 🆎 Estou me desenvolvendo na linguagem JavaScript
+- 🎱 utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
 ## Você pode entrar em contato comigo:
