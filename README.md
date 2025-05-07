@@ -2,7 +2,7 @@
 
 -**Guilherme Alves dos Santos**
 - 📘 Eu leciono no Colégio Neide Bertasso Beraldo_
-- 🥇 Tenho 15 anoS
+- 🥇 Tenho 15 anos
 - 📖 Estudo no 1 ano A do Ensino Médio
 - 📑 Estou estudando na [Alura](https:www.alura.com.br).
 - 🆎 Estou me desenvolvendo na linguagem JavaScript
